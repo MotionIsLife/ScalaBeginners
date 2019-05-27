@@ -1,5 +1,3 @@
-import scala.io.Source
-
 object longestLine extends App {
   if(args.length > 0) {
     val lines = Source.fromFile(args(0)).getLines().toList
