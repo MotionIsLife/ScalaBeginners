@@ -23,4 +23,4 @@ List(1, 2, 3) == "hello"
 List(1, 2, 3) == null
 null == List(1, 2, 3)
 null == null
-("he" + "llo") == "hello"
+("he" + "llo") == "hello "
